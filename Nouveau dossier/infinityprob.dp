@@ -1,0 +1,12 @@
+[Project]
+FileName=C:\Users\TAKIACADEMY\Desktop\Nouveau dossier\infinityprob.dp
+Name=infinitydaya
+MainUnit=C:\Users\TAKIACADEMY\Desktop\Nouveau dossier\infusers.pas
+UnitCount=1
+ResFiles=C:\Users\TAKIACADEMY\Desktop\Nouveau dossier\rsrc.rc
+NoConsole=1
+IsDll=0
+Icon=C:\Dev-Pas\bin\Mainicon.ico
+[Unit1]
+FileName=C:\Users\TAKIACADEMY\Desktop\Nouveau dossier\infusers.pas
+FileTime=1421935387
